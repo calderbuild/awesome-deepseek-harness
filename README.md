@@ -85,6 +85,7 @@ Paths are relative to `docs/` in the main repository. Most files have a `.zh.md`
 - [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) - Vision features for text-only models: image Q&A, long-screenshot OCR, and UI grounding.
 - [ccch1mneyyy/dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui) - Fullscreen terminal UI in Claude Code style.
 - [huiliyi37/dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) - Terminal UI for DeepSeek Harness.
+- [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) - Import Claude Code / Codex / ChatGPT / Cursor chat histories as resumable DeepSeek Harness sessions.
 
 ## Write-ups
 
