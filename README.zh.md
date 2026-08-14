@@ -85,6 +85,7 @@ pnpm dsh web
 - [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) - 给纯文本模型加视觉能力：图片问答、长截图 OCR、UI 定位。
 - [ccch1mneyyy/dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui) - Claude Code 风格的全屏终端界面。
 - [huiliyi37/dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) - DeepSeek Harness 终端界面。
+- [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) - 把 Claude Code、Codex、ChatGPT、Cursor 等工具的历史对话导入为可继续的 DeepSeek Harness 会话。
 
 ## 解读
 
