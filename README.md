@@ -87,6 +87,7 @@ Paths are relative to `docs/` in the main repository. Most files have a `.zh.md`
 - [ccch1mneyyy/dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui) - Fullscreen terminal UI in Claude Code style.
 - [huiliyi37/dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) - Terminal UI for DeepSeek Harness.
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) - Import full-fidelity conversation histories from 13 coding agents (Claude Code / Codex / ChatGPT / Cursor / Gemini / Reasonix / opencode / ZCode / Grok Build / OpenClaw / Pi / Hermes / Kimi) as resumable DeepSeek Harness sessions, with reverse export/sync back to Claude Code.
+- [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) - Login gateway for the DSH web UI: first-run setup, multi-user accounts, bcrypt encryption, brute-force lockout, audit log, and automatic HTTPS.
 
 ## Write-ups
 
