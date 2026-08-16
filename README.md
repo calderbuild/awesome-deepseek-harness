@@ -82,6 +82,7 @@ Paths are relative to `docs/` in the main repository. Most files have a `.zh.md`
 ## Community plugins
 
 - [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - Web UI skins and panels: task board, Git graph, side panels, mobile UI, and token stats.
+- [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) - Context insight panel: see what the model's context window is made of and how it evolves — composition vs. window size, per-request history, compression/injection events, and per-message token stats.
 - [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) - Vision features for text-only models: image Q&A, long-screenshot OCR, and UI grounding.
 - [ccch1mneyyy/dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui) - Fullscreen terminal UI in Claude Code style.
 - [huiliyi37/dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) - Terminal UI for DeepSeek Harness.
