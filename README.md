@@ -80,6 +80,7 @@ Paths are relative to `docs/` in the main repository. Most files have a `.zh.md`
 - [@deepseek-ai/dsh-frontend](https://www.npmjs.com/package/@deepseek-ai/dsh-frontend) - Built frontend distribution.
 
 ## Community plugins
+- [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - Complete reverse-skill pack (85 SKILL.md) as a DeepSeek Harness Cordis plugin: reverse engineering, authorized pentesting and security-research skill router.
 
 - [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - Web UI skins and panels: task board, Git graph, side panels, mobile UI, and token stats.
 - [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) - Vision features for text-only models: image Q&A, long-screenshot OCR, and UI grounding.
