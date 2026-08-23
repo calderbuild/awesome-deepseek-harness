@@ -86,6 +86,7 @@ Paths are relative to `docs/` in the main repository. Most files have a `.zh.md`
 - [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) - Vision features for text-only models: image Q&A, long-screenshot OCR, and UI grounding.
 - [ccch1mneyyy/dsh-cc-tui](https://github.com/ccch1mneyyy/dsh-cc-tui) - Fullscreen terminal UI in Claude Code style.
 - [huiliyi37/dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) - Terminal UI for DeepSeek Harness.
+- [openma-ai/Martty](https://github.com/openma-ai/Martty) - DSH-first Rust/ratatui agent TUI with streamed tool calls, subagents, durable sessions, and a Cordis-extensible client UI.
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) - Import full-fidelity conversation histories from 13 coding agents (Claude Code / Codex / ChatGPT / Cursor / Gemini / Reasonix / opencode / ZCode / Grok Build / OpenClaw / Pi / Hermes / Kimi) as resumable DeepSeek Harness sessions, with reverse export/sync back to Claude Code.
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) - Login gateway for the DSH web UI: first-run setup, multi-user accounts, bcrypt encryption, brute-force lockout, audit log, and automatic HTTPS.
 
