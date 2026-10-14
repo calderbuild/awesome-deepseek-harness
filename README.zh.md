@@ -82,6 +82,7 @@ pnpm dsh web
 ## 社区插件
 
 - [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - 完整 reverse-skill 包（85 个 SKILL.md）的 DeepSeek Harness Cordis 插件：逆向工程、授权渗透测试与安全研究技能路由。
+- [dsh-sieve](https://github.com/Sev7eEn7/sieve) - 为 DSH 0.2.1-alpha.1 过滤工具输出、裁剪陈旧上下文并按需披露技能。
 - [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - Web UI 皮肤和面板：任务板、Git graph、侧边面板、移动端界面、token 统计。
 - [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) - 上下文洞察面板：一眼看清模型上下文窗口的组成与变化：构成对照窗口大小、按请求历史趋势、压缩/注入事件、消息级 token 统计。
 - [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) - 给纯文本模型加视觉能力：图片问答、长截图 OCR、UI 定位。
