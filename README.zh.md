@@ -90,6 +90,7 @@ pnpm dsh web
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) - 把 13 个编程 agent（Claude Code、Codex、ChatGPT、Cursor、Gemini、Reasonix、opencode、ZCode、Grok Build、OpenClaw、Pi、Hermes、Kimi）的高保真对话历史导入为可继续的 DeepSeek Harness 会话，并支持导出/同步回 Claude Code。
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) - DSH Web UI 登录网关：首次运行配置、多用户账户、bcrypt 加密、暴力破解锁定、审计日志和自动 HTTPS。
 - [skyjjgw/dsh-version-guard](https://github.com/skyjjgw/dsh-version-guard) — 记录插件版本与 profile 配置快照，在 DSH 无法启动时通过独立恢复页回退到已知可用配置。
+- [DSH Plugin Store](https://github.com/sandbaseai/dsh-plugin-store) - 在 DeepSeek Harness 设置页加入插件市场，支持查找、安装和管理社区插件。
 
 ## 解读
 
