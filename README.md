@@ -90,6 +90,7 @@ Paths are relative to `docs/` in the main repository. Most files have a `.zh.md`
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) - Login gateway for the DSH web UI: first-run setup, multi-user accounts, bcrypt encryption, brute-force lockout, audit log, and automatic HTTPS.
 - [skyjjgw/dsh-version-guard](https://github.com/skyjjgw/dsh-version-guard) — Snapshots plugin versions and profile configuration, with an independent recovery page to restore a known-good configuration when DSH cannot start.
 - [DSH Plugin Store](https://github.com/sandbaseai/dsh-plugin-store) - Adds a marketplace to DeepSeek Harness Settings for finding, installing, and managing community plugins.
+- [BaiKe-Zhang/dsh-mindmark](https://github.com/BaiKe-Zhang/dsh-mindmark) - Word-style markup on assistant answers (highlight / underline / strike / comment / rewrite) that the model reads on the next turn, acts on, confirms, and can distill into long-term preferences in AGENTS.md.
 
 ## Write-ups
 
