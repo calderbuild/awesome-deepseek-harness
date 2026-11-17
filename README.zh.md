@@ -104,6 +104,7 @@ pnpm dsh web
 - [Awesome DSH Plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins) - 插件目录，带每日兼容性追踪。
 - [Awesome DeepSeek Harness](https://github.com/0xsline/awesome-deepseek-harness) - 插件、工具和基础设施精选。
 - [Awesome](https://github.com/sindresorhus/awesome) - awesome 列表总目录。
+- [dsplugin.app](https://dsplugin.app/) - DeepSeek Harness 社区插件目录，可按来源与 Manifest 状态筛选，查看 GitHub 数据和安装命令，也可发布或自动发现 dsh-plugin 仓库。
 
 ## 参与贡献
 
