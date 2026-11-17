@@ -104,6 +104,7 @@ Paths are relative to `docs/` in the main repository. Most files have a `.zh.md`
 - [Awesome DSH Plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins) - Plugin directory with daily compatibility tracking.
 - [Awesome DeepSeek Harness](https://github.com/0xsline/awesome-deepseek-harness) - Curated plugins, tools, and infrastructure.
 - [Awesome](https://github.com/sindresorhus/awesome) - The main list of awesome lists.
+- [dsplugin.app](https://dsplugin.app/) - Community DeepSeek Harness plugin directory with filters by source and Manifest status, GitHub data, install commands, and publishing or auto-discovery of dsh-plugin repositories.
 
 ## Contributing
 
